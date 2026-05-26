@@ -58,6 +58,10 @@ Para garantizar la integridad del código y mantener un historial de desarrollo 
 ---
 
 ## 📸 Evidencias de Implementación
+### 0. Vista Principal (Antes como estaba)
+Muestra como se miraba el sitio antes de la personalizacion y como se clono en consola:
+![Vista Principal del Home en Modo Claro](./assets/img/evidencias/00_console.png)
+![Vista Principal del Home en Modo Claro](./assets/img/evidencias/00_before.png)
 
 ### 1. Vista Principal (Sección Home - Modo Claro)
 Muestra la nueva paleta de colores verde (`#057932`) aplicada a los botones, iconos sociales y el efecto flotante de los 6 círculos difuminados de fondo en el tema claro.
@@ -75,6 +79,11 @@ Detalle de la sección de experiencia laboral configurada con los proyectos de d
 ### 4. Sección de Portafolio Responsivo (Carrusel Activo)
 Demostración del funcionamiento de *SwiperJS* integrando los detalles y las descripciones de los proyectos personalizados.
 ![Carrusel de Portafolio Responsivo](./assets/img/evidencias/04_portfolio_carousel.png)
+
+
+### 5. Comandos Git Utilizados
+![Carrusel de Portafolio Responsivo](./assets/img/evidencias/05_comandosgit.png)
+
 
 
 
